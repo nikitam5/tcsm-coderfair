@@ -18,7 +18,7 @@ Features:
 
 Edit names here: 
 <ul>
-  <li>Team Member #1</li>
+  <li>Sid Patel</li>
   <li>Team Member #2</li>
   <li>Team Member #3</li>
   <li>Team Member #4</li>
