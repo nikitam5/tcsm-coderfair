@@ -23,7 +23,7 @@ Edit names here:
   <li>Josh Sambol</li>
   <li>Team Member #4</li>
   <li>Team Member #5</li>
-  <li>Team Member #6</li>
+  <li>Ayaan Kalsekar</li>
   <li>Team Member #7</li>
   <li>Team Member #8</li>
   <li>Team Member #9</li>
