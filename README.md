@@ -21,7 +21,7 @@ Edit names here:
   <li>Sid Patel</li>
   <li>Michael Youtz</li>
   <li>Josh Sambol</li>
-  <li>Team Member #4</li>
+  <li>Nicolas Braem</li>
   <li>Team Member #5</li>
   <li>Team Member #6</li>
   <li>Team Member #7</li>
