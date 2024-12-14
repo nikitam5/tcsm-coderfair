@@ -25,6 +25,6 @@ Edit names here:
   <li>Team Member #5</li>
   <li>Ayaan Kalsekar</li>
   <li>Team Member #7</li>
-  <li>Team Member #8</li>
+  <li>Shriya Patel</li>
   <li>Team Member #9</li>
 </ul>
