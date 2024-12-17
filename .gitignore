@@ -1,6 +1,7 @@
+
 #venv
 back_end_venv/
-venv/
+venv/ 
 
 # Logs
 logs
