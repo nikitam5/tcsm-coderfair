@@ -1,4 +1,7 @@
 
+#venv
+back_end_venv/
+venv/ 
 
 # Logs
 logs
