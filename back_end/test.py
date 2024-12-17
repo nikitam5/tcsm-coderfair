@@ -1,6 +1,6 @@
 from flask import Flask
 
-app = Flask("Test")
+app = Flask("test")
 @app.route("/")
 def hello_test():
-    return "<p>Hello</p>"
+    return "<p>Test</p>"
