@@ -22,7 +22,7 @@ Edit names here:
   <li>Michael Youtz</li>
   <li>Josh Sambol</li>
   <li>Nicolas Braem</li>
-  <li>Team Member #5</li>
+  <li>Tom Martin</li>
   <li>Ayaan Kalsekar</li>
   <li>Team Member #7</li>
   <li>Shriya Patel</li>
