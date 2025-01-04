@@ -7,10 +7,6 @@ def create_app():
     #config 
     #security key, test mode, debugging window 
 
-    #blueprints
-    from app.index.routes import index
-    app.register_blueprint(index)
-
     # Register the routes by calling init_routes
     init_routes(app)
 
