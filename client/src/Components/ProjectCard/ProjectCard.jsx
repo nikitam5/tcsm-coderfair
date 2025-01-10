@@ -4,7 +4,7 @@ import "./ProjectCard.css";
 const ProjectCard = ({
   title = "Project Name",
   description = "Project Description",
-  language,
+  language = "Lang.",
 }) => {
   return (
     <Card shadow="sm" padding="lg" radius="md" withBorder>
