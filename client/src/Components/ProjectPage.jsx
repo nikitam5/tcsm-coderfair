@@ -1,8 +1,12 @@
-import ProjectCard from "./ProjectCard/ProjectCard";
+import ProjectCard from './ProjectCard/ProjectCard';
+import SearchBar from './SearchBar/SearchBar';
 const ProjectPage = () => {
   return (
-    <main className="ProjectCardList">
-      <ProjectCard></ProjectCard>
+    <main className="ProjectPageMain">
+      <SearchBar />
+      <div className="ProjectCardList">
+        <ProjectCard />
+      </div>
     </main>
   );
 };
